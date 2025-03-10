@@ -25,9 +25,9 @@ front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
 # ScreenShot
 
-<img src="https://i.ibb.co/TDCWBhDg/screen6.png" alt="screen6" border="0">
-<img src="screen/screen2.png">
-<img src="screen/screen3.png">
-<img src="screen/screen4.png">
-<img src="screen/screen5.png">
-<img src="screen/screen6.png">
+<img src="https://i.ibb.co/TDCWBhDg/screen6.png">
+<img src="https://i.ibb.co/jPtnQfQB/screen5.png">
+<img src="https://i.ibb.co/Lds61jdq/screen4.png">
+<img src="https://i.ibb.co/3mm77rQ5/screen3.png">
+<img src="https://i.ibb.co/HfKF6JLs/screen2.png">
+<img src="https://i.ibb.co/0pCHPKWB/screen1.png">
